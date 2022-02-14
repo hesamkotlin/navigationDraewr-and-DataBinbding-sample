@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    light theme    -->
+    <color name="purple_400">#935aa0</color>
+    <color name="purple_800">#67397f</color>
+
+    <!--    dark theme    -->
+    <color name="purple_300">#a375a9</color>
+    <color name="purple_700">#73427e</color>
+
+    <!--    background & surface    -->
+    <color name="indigo_900">#231127</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <!--    error colors    -->
+    <color name="pink_300">#cd6679</color>
+    <color name="pink_800">#800020</color>
+
+</resources>
